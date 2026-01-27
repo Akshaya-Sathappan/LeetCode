@@ -9,8 +9,9 @@ class Solution {
                 if(matrix[i][j] < 0){
                     negCount++;
                 }
-                mini = Math.min(mini, Math.abs(matrix[i][j]));
-                sum += Math.abs(matrix[i][j]);
+                int absVal = Math.abs(matrix[i][j]);
+                if(mini > absVal) mini = absVal;
+                sum += absVal;
             }
         }
 
