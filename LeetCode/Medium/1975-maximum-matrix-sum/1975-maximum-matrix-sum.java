@@ -2,7 +2,7 @@ class Solution {
     public long maxMatrixSum(int[][] matrix) {
         int negCount = 0;
         long sum = 0;
-        long mini = Long.MAX_VALUE;
+        int mini = Integer.MAX_VALUE;
 
         for(int i = 0; i < matrix.length; i++){
             for(int j = 0; j < matrix[0].length; j++){
