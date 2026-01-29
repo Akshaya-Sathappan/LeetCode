@@ -22,14 +22,16 @@ class Solution {
                 if(curr.next != null){
                     stack.push(curr.next);
                 }
+
                 curr.next = curr.child;
                 curr.child.prev = curr;
                 curr.child = null;
             }
+
             if(curr.next == null && !stack.isEmpty()){
-                Node n = stack.pop();
-                curr.next = n;
-                n.prev = curr;
+                Node next = stack.pop();
+                curr.next = next;
+                next.prev = curr;
             }
 
             curr = curr.next;
