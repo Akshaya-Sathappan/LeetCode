@@ -30,7 +30,7 @@ class Solution {
                 right = mid;
             }
         }
-        return right;
+        return left;
     }
 }
 
