@@ -12,21 +12,19 @@ class Solution {
             10, 9, 5, 4, 1
         };
 
-        StringBuilder res = new StringBuilder();
+        int count = 0;
+        StringBuilder result = new StringBuilder();
 
         for(int i = 0; i < value.length; i++){
-            int count = 0;
-    
             count = num / value[i];
             num = num % value[i];
+
             while(count > 0){
-                res.append(roman[i]);
+                result.append(roman[i]);
                 count--;
             }
-
             if(num == 0) break;
-            
         }
-        return res.toString();
+        return result.toString();
     }
 }
