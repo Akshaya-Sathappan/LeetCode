@@ -9,7 +9,7 @@ class Solution {
         }
 
         if(index == -1){
-            Arrays.sort(nums);
+            reverse(nums, 0);
         }
         else{
             for(int j = nums.length - 1; j > index; j--){
