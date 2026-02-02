@@ -13,7 +13,7 @@ class Solution {
         }
         else{
             for(int j = nums.length - 1; j > index; j--){
-                if(nums[j] > nums[index]){
+                if(nums[index] < nums[j]){
                     swap(nums, index, j);
                     break;
                 }
