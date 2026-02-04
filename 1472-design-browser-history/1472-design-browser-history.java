@@ -4,7 +4,8 @@ class BrowserHistory {
     int lastUrl;
 
     public BrowserHistory(String homepage) {
-        visitedUrls = new ArrayList<>(Arrays.asList(homepage));
+        visitedUrls = new ArrayList<>();
+        visitedUrls.add(homepage);
         curUrl = 0;
     }
     
