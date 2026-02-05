@@ -10,13 +10,7 @@ class Solution {
                 stack.pop();
             }
 
-            if(stack.isEmpty()){
-                map.put(nums2[i], - 1);
-            }
-
-            else if(!stack.isEmpty() && stack.peek() > nums2[i]){
-                map.put(nums2[i], stack.peek());
-            }
+            map.put(nums2[i], stack.isEmpty() ? -1 : stack.peek());
 
             stack.push(nums2[i]);
         }
