@@ -8,7 +8,7 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
 
         for(int i = arr.length - 1; i >= 0; i--){
-            while(!stack.isEmpty() && arr[stack.peek()] > arr[i]){
+            while(!stack.isEmpty() && arr[stack.peek()] >= arr[i]){
                 stack.pop();
             }
             if(!stack.isEmpty()){
@@ -19,7 +19,7 @@ class Solution {
         stack.clear();
 
         for(int i = 0; i < arr.length; i++){
-            while(!stack.isEmpty() && arr[stack.peek()] >= arr[i]){
+            while(!stack.isEmpty() && arr[stack.peek()] > arr[i]){
                 stack.pop();
             }
             if(!stack.isEmpty()){
