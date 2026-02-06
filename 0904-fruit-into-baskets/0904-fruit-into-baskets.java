@@ -3,11 +3,12 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<>();
         int left = 0;
         int maxFruits = 0;
+        int basket = 2;
 
         for(int right = 0; right < fruits.length; right++){
             map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
 
-            while(map.size() > 2){
+            while(map.size() > basket){
                 map.put(fruits[left], map.get(fruits[left]) - 1);
                 if(map.get(fruits[left]) == 0){
                     map.remove(fruits[left]);
