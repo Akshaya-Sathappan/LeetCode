@@ -9,7 +9,7 @@ class Solution {
             ch[s.charAt(right) - 'A']++;
             maxFreq = Math.max(maxFreq, ch[s.charAt(right) - 'A']);
 
-            while((right - left + 1) - maxFreq > k){
+            if((right - left + 1) - maxFreq > k){
                 ch[s.charAt(left) - 'A']--;
                 left++;
             }
