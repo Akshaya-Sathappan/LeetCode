@@ -11,6 +11,12 @@ class Solution {
                 set.remove(num2);
             }
         }
-        return list.stream().mapToInt(i->i).toArray();
+        int[] ans = new int[list.size()];
+        int i = 0;
+
+        for(int num : list)
+            ans[i++] = num;
+
+        return ans;
     }
 }
