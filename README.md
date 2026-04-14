@@ -14,6 +14,7 @@
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1150-check-if-a-number-is-majority-element-in-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1150-check-if-a-number-is-majority-element-in-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
