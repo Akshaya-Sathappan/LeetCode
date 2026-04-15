@@ -51,6 +51,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -79,6 +81,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -88,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
