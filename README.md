@@ -34,6 +34,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -52,6 +53,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
 ## Sliding Window
@@ -82,6 +84,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
 ## Dynamic Programming
