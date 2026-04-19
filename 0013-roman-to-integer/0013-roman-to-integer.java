@@ -19,16 +19,16 @@ class Solution {
         int sum = 0;
         while(i < s.length()){
             if(i < s.length()-1){
-                String str = s.substring(i, i+2);
-                if(map.containsKey(str)){
-                    sum += map.get(str);
+                String doubleStr = s.substring(i, i+2);
+                if(map.containsKey(doubleStr)){
+                    sum += map.get(doubleStr);
                     i += 2;
                     continue;
                 }
             }
             
-            String str2 = s.substring(i, i+1);
-            sum += map.get(str2);
+            String singleStr = s.substring(i, i+1);
+            sum += map.get(singleStr);
             i++;
             
         }
