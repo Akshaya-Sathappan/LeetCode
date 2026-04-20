@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@
 | [0013-roman-to-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
