@@ -14,7 +14,7 @@ class Solution {
                 countS[(int) (s.charAt(j - p.length()) - 'a')]--;
             }
 
-            if(Arrays.equals(countP,countS)){
+            if(Arrays.equals(countP,countS) && j >= p.length() - 1){
                 list.add(j - p.length() + 1);
             }
         }
