@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1150-check-if-a-number-is-majority-element-in-a-sorted-array/) | Easy |
@@ -38,6 +39,7 @@
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +59,7 @@
 | [0013-roman-to-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -112,8 +115,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
