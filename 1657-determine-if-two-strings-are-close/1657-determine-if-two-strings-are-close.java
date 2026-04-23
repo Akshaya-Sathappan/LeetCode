@@ -24,11 +24,6 @@ class Solution {
         Arrays.sort(freq1);
         Arrays.sort(freq2);
 
-        for(int l = 0; l < 26; l++){
-            if(freq1[l] != freq2[l]){
-                return false;
-            }
-        }
-        return true;
+        return Arrays.equals(freq1, freq2);
     }
 }
