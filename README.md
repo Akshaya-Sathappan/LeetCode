@@ -64,6 +64,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
