@@ -3,12 +3,13 @@ class Solution {
         HashMap<Character, Integer> map = new HashMap<>();
         int left = 0;
         int maxLength = 0;
+        int len = s.length();
 
-        if(s.length() < 3){
-            return s.length();
+        if(len < 3){
+            return len;
         }
 
-        for(int right = 0; right < s.length(); right++){
+        for(int right = 0; right < len; right++){
             char r = s.charAt(right);
             map.put(r, map.getOrDefault(r, 0) + 1);
             while(map.size() > 2){
