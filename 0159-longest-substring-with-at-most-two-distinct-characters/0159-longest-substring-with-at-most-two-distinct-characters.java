@@ -4,6 +4,10 @@ class Solution {
         int left = 0;
         int maxLength = 0;
 
+        if(s.length() < 3){
+            return s.length();
+        }
+
         for(int right = 0; right < s.length(); right++){
             char r = s.charAt(right);
             map.put(r, map.getOrDefault(r, 0) + 1);
@@ -17,7 +21,7 @@ class Solution {
 
             maxLength = Math.max(maxLength, right - left + 1);
         }
-        
+
         return maxLength;
     }
 }
