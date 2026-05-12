@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0134-gas-station/) | Medium |
@@ -48,6 +49,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
@@ -118,6 +120,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0134-gas-station/) | Medium |
 ## Bit Manipulation
