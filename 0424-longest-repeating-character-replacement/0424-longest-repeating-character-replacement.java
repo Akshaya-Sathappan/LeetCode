@@ -10,7 +10,7 @@ class Solution {
             arr[i]++;
             maxCharLength = Math.max(maxCharLength, arr[i]);
 
-            if((right - left + 1) - maxCharLength > k){
+            while((right - left + 1) - maxCharLength > k){
                 int j = s.charAt(left) - 'A';
                 arr[j]--;
                 left++;
