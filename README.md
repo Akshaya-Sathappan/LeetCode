@@ -61,6 +61,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
