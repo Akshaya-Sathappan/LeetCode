@@ -8,9 +8,8 @@ class Solution {
         for(int right = 0; right < s.length(); right++){
             int i = s.charAt(right) - 'A';
             arr[i]++;
-            maxCharLength = Math.max(maxCharLength, arr[i]);
 
-            while((right - left + 1) - maxCharLength > k){
+            while((right - left + 1) - getMax(arr) > k){
                 int j = s.charAt(left) - 'A';
                 arr[j]--;
                 left++;
@@ -20,5 +19,13 @@ class Solution {
         }
 
         return maxLength;
+    }
+
+    private int getMax(int[] arr){
+        int maxChar = 0;
+        for(int a : arr){
+            maxChar = Math.max(maxChar, a);
+        }
+        return maxChar;
     }
 }
