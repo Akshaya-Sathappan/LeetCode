@@ -1,14 +1,15 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        return noOfSubarrays(nums, goal) - noOfSubarrays(nums, goal - 1);
+        return numOfSubarrays(nums, goal) - numOfSubarrays(nums, goal - 1);
     }
 
-    public int noOfSubarrays(int[] nums, int goal){
-        if(goal < 0) return 0;
+    public int numOfSubarrays(int[] nums, int goal){
+        int left = 0;
         int sum = 0;
         int count = 0;
-        int left = 0;
-        
+
+        if(goal < 0) return 0;
+
         for(int right = 0; right < nums.length; right++){
             sum += nums[right];
 
@@ -19,6 +20,7 @@ class Solution {
 
             count += right - left + 1;
         }
+
         return count;
     }
 }
