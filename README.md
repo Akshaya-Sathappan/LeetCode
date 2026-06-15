@@ -14,6 +14,7 @@
 | [0134-gas-station](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -53,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -96,6 +98,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
