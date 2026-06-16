@@ -13,6 +13,8 @@ class Solution {
         int minSum = 0;
         int ans = Integer.MAX_VALUE;
 
+        if(k == 0) return 0;
+
         for(int right = 0; right < cardPoints.length; right++){
             minSum += cardPoints[right];
 
