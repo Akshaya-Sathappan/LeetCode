@@ -25,6 +25,7 @@
 | [0875-koko-eating-bananas](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1150-check-if-a-number-is-majority-element-in-a-sorted-array/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -46,6 +47,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1150-check-if-a-number-is-majority-element-in-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
