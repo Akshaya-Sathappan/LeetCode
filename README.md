@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -65,6 +66,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -87,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -200,6 +203,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -213,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -226,8 +231,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
