@@ -33,6 +33,7 @@
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1150-check-if-a-number-is-majority-element-in-a-sorted-array/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -55,6 +56,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1150-check-if-a-number-is-majority-element-in-a-sorted-array/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
