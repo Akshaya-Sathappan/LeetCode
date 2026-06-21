@@ -24,6 +24,7 @@
 | [0487-max-consecutive-ones-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -51,6 +52,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -87,6 +89,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -95,6 +98,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -122,6 +126,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -223,6 +228,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Tree
