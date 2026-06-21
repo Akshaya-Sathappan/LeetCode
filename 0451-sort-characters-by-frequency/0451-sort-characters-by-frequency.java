@@ -16,7 +16,8 @@ class Solution {
 
         while(!pq.isEmpty()){
             char c = pq.poll();
-            for(int i = 0; i < map.get(c); i++){
+            int freq = map.get(c);
+            for(int i = 0; i < freq; i++){
                 str.append(c);
             }
         }
