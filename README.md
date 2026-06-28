@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -188,12 +189,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0860-lemonade-change/) | Easy |
