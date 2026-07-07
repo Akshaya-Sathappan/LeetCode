@@ -1,15 +1,15 @@
 class Solution {
     public int jump(int[] nums) {
-        if(nums.length == 1) return 0;
-        int right = nums[0];
-        int noOfJumps = 1;
-        for(int left = 1; left < nums.length; left++){
-            if(right < left + nums[left]){
-                right = left + nums[left];
+        int currentEnd = 0;
+        int noOfJumps = 0;
+        int farthest = 0;
+
+        for(int i = 0; i < nums.length - 1; i++){
+            farthest = Math.max(farthest, i + nums[i]);
+
+            if(i == currentEnd){
                 noOfJumps++;
-            }
-            if(right >= nums.length - 1){
-                return noOfJumps;
+                currentEnd = farthest;
             }
         }
         return noOfJumps;
