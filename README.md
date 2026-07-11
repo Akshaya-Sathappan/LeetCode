@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
