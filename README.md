@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0134-gas-station/) | Medium |
@@ -101,6 +102,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
