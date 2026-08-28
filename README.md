@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0487-max-consecutive-ones-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -84,6 +85,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -150,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
