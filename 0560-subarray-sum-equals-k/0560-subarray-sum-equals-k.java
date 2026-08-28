@@ -13,13 +13,8 @@ class Solution {
             if(map.containsKey(diff)){
                 count += map.get(diff);
             }
-            
-            if(map.containsKey(sum)){
-                map.put(sum, map.get(sum) + 1);
-            }
-            else{
-                map.put(sum, 1);
-            }
+
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
         return count;
     }
