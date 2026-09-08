@@ -9,13 +9,9 @@ class Solution {
         while(i <= j){
             if(people[i] + people[j] <= limit){
                 i++;
-                j--;
-                noOfBoats++;
             }
-            else{
-                j--;
-                noOfBoats++;
-            }
+            j--;
+            noOfBoats++;
         }
         return noOfBoats;
     }
