@@ -1,6 +1,9 @@
 class Solution {
     public int minMeetingRooms(int[][] intervals) {
         int len = intervals.length;
+
+        if(len == 1) return 1;
+        
         int[] startTimes = new int[len];
         int[] endTimes = new int[len];
 
