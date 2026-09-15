@@ -39,6 +39,7 @@
 | [0881-boats-to-save-people](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
@@ -150,6 +151,7 @@
 | [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -208,6 +210,7 @@
 | [0055-jump-game](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0487-max-consecutive-ones-ii/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
