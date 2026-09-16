@@ -37,6 +37,7 @@
 | [0860-lemonade-change](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -212,6 +213,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0487-max-consecutive-ones-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -315,4 +319,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
