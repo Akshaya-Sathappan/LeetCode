@@ -192,6 +192,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -235,6 +236,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
