@@ -37,10 +37,6 @@ class Solution {
             }
         }
 
-        if(count == numCourses){
-            return true;
-        }
-
-        return false;
+        return count == numCourses;
     }
 }
