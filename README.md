@@ -325,4 +325,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
