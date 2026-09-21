@@ -28,12 +28,9 @@ class Solution {
                 count++;
             }
 
-            if(!q.isEmpty()){
-                int[] i = q.peek();
-                if(i[2] == count){
-                    pq.add(new int[] {i[0], i[1]});
-                    q.poll();
-                }
+            while (!q.isEmpty() && q.peek()[2] <= count) {
+                int[] i = q.poll();
+                pq.add(new int[]{i[0], i[1]});
             }
         }
 
