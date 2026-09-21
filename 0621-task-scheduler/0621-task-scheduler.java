@@ -1,0 +1,42 @@
+class Solution {
+    public int leastInterval(char[] tasks, int n) {
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[1] - a[1]);
+        int[] freq = new int[26];
+        Queue<int[]> q = new LinkedList<>();
+        int count = 0;
+
+        for(char c : tasks){
+            int character = (int) c;
+            freq[character - 'A']++;
+        }
+
+        for(int i = 0; i < 26; i++){
+            if(freq[i] > 0){
+                pq.offer(new int[] {i, freq[i]});
+            }
+        }
+
+        while(!pq.isEmpty() || !q.isEmpty()){
+            if(!pq.isEmpty()){
+                int[] arr = pq.poll();
+                count++;
+                if(arr[1] - 1 > 0){
+                    q.add(new int[] {arr[0], arr[1] - 1, count + n});
+                }
+            }
+            else{
+                count++;
+            }
+
+            if(!q.isEmpty()){
+                int[] i = q.peek();
+                if(i[2] == count){
+                    pq.add(new int[] {i[0], i[1]});
+                    q.poll();
+                }
+            }
+        }
+
+        return count;
+    }
+}
