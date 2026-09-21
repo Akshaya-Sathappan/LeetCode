@@ -31,6 +31,7 @@
 | [0487-max-consecutive-ones-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0487-max-consecutive-ones-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -92,6 +93,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -121,6 +123,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -227,6 +230,7 @@
 | [0253-meeting-rooms-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -261,6 +265,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -277,6 +282,7 @@
 | [0253-meeting-rooms-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
