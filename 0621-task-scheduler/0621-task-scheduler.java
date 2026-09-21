@@ -20,8 +20,9 @@ class Solution {
             if(!pq.isEmpty()){
                 int[] arr = pq.poll();
                 count++;
-                if(arr[1] - 1 > 0){
-                    q.add(new int[] {arr[0], arr[1] - 1, count + n});
+                int remaining = arr[1] - 1;
+                if(remaining > 0){
+                    q.add(new int[] {arr[0], remaining, count + n});
                 }
             }
             else{
