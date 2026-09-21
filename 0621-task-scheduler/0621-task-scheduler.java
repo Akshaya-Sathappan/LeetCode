@@ -29,7 +29,7 @@ class Solution {
                 count++;
             }
 
-            if (!q.isEmpty() && q.peek()[2] == count) {
+            if (!q.isEmpty() && q.peek()[2] <= count) {
                 int[] i = q.poll();
                 pq.add(new int[]{i[0], i[1]});
             }
