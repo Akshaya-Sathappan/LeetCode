@@ -38,7 +38,7 @@ class Solution {
             }
         }
 
-        for(int i = numCourses - 2; i >= 0; i--){
+        for(int i = numCourses - 1; i >= 0; i--){
             int t = f[i];
             List<Integer> neighbors = new ArrayList<>(list.get(t));
             for(int n : neighbors){
