@@ -140,6 +140,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -190,6 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,4 +364,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
