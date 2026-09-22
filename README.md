@@ -247,12 +247,14 @@
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +298,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +325,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
