@@ -45,6 +45,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1085-sum-of-digits-in-the-minimum-number/) | Easy |
@@ -357,6 +358,7 @@
 | [0210-course-schedule-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@
 | [0200-number-of-islands](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
