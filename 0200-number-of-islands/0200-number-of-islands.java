@@ -27,7 +27,5 @@ class Solution {
         helper(grid, i - 1, j);
         helper(grid, i, j + 1);
         helper(grid, i, j - 1);
-
-        return;
     }
 }
