@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -344,6 +345,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -353,6 +355,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -379,6 +382,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -390,5 +394,6 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
