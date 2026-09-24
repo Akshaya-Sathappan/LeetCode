@@ -2,18 +2,18 @@ class Solution {
     public void solve(char[][] board) {
         int nRows = board.length;
         int nCols = board[0].length;
+        boolean[][] visited = new boolean[board.length][board[0].length];
 
         for(int i = 0; i < nRows; i++){
             for(int j = 0; j < nCols; j++){
-                if(board[i][j] == 'O'){
-                    bfs(board, i, j);
+                if(board[i][j] == 'O' && !visited[i][j]){
+                    bfs(board, i, j, visited);
                 }
             }
         }
     }
 
-    public void bfs(char[][] board, int i, int j){
-        boolean[][] visited = new boolean[board.length][board[0].length];
+    public void bfs(char[][] board, int i, int j, boolean[][] visited){
         Queue<int[]> q = new LinkedList<>();
         Queue<int[]> toReplace = new LinkedList<>();
         q.add(new int[] {i, j});
