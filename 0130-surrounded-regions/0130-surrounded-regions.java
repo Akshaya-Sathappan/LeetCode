@@ -40,7 +40,7 @@ class Solution {
             }
         }
 
-        if(boundary == false){
+        if(!boundary){
             while(!toReplace.isEmpty()){
                 int[] elem = toReplace.poll();
                 board[elem[0]][elem[1]] = 'X';
