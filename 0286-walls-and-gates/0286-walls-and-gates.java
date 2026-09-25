@@ -22,11 +22,13 @@ class Solution {
 
         while(!q.isEmpty()){
             int[] node = q.poll();
-            distance = rooms[node[0]][node[1]];
+            int r = node[0];
+            int c = node[1];
+            distance = rooms[r][c];
 
             for(int[] dir : directions){
-                int nr = dir[0] + node[0];
-                int nc = dir[1] + node[1];
+                int nr = dir[0] + r;
+                int nc = dir[1] + c;
 
                 if(nr >= 0 && nc >= 0 && nr < rooms.length && nc < rooms[0].length){
                     if(rooms[nr][nc] == INF){
