@@ -351,6 +351,7 @@
 | [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Breadth-First Search
@@ -362,6 +363,7 @@
 | [0210-course-schedule-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0286-walls-and-gates](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -370,6 +372,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -399,4 +402,5 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
