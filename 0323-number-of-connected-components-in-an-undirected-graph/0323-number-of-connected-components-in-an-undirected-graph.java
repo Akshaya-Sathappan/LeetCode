@@ -30,10 +30,10 @@ class Solution {
         while(!q.isEmpty()){
             int node = q.poll();
 
-            for(int n : adjList.get(node)){
-                if(!visited[n]){
-                    q.add(n);
-                    visited[n] = true;
+            for(int neighbor : adjList.get(node)){
+                if(!visited[neighbor]){
+                    q.add(neighbor);
+                    visited[neighbor] = true;
                 }
             }
         }
