@@ -1,5 +1,8 @@
 class Solution {
     public void solve(char[][] board) {
+        if (board == null || board.length == 0 || board[0].length == 0) {
+            return;
+        }
         int nRows = board.length;
         int nCols = board[0].length;
         boolean[][] visited = new boolean[board.length][board[0].length];
