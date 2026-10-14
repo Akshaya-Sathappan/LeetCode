@@ -3,15 +3,16 @@ class Solution {
         Queue<int[]> qP = new LinkedList<>();
         Queue<int[]> qA = new LinkedList<>();
         int noOfRows = heights.length;
-        boolean[][] visitedP = new boolean[noOfRows][heights[0].length];
-        boolean[][] visitedA = new boolean[noOfRows][heights[0].length];
+        int noOfCols = heights[0].length;
+        boolean[][] visitedP = new boolean[noOfRows][noOfCols];
+        boolean[][] visitedA = new boolean[noOfRows][noOfCols];
         List<List<Integer>> result = new ArrayList<>();
 
         for(int i = 0; i < noOfRows; i++){
             qP.add(new int[] {i, 0});
             visitedP[i][0] = true;
-            qA.add(new int[] {i, heights[0].length - 1});
-            visitedA[i][heights[0].length - 1] = true;
+            qA.add(new int[] {i, noOfCols - 1});
+            visitedA[i][noOfCols - 1] = true;
         }
 
         for(int j = 0; j < heights[0].length; j++){
@@ -25,7 +26,7 @@ class Solution {
         bfs(qA, visitedA, heights);
 
         for(int i = 0; i < noOfRows; i++){
-            for(int j = 0; j < heights[0].length; j++){
+            for(int j = 0; j < noOfCols; j++){
                 if(visitedP[i][j] && visitedA[i][j]){
                     result.add(Arrays.asList(i, j));
                 }
