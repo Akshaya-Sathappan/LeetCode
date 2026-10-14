@@ -2,11 +2,12 @@ class Solution {
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
         Queue<int[]> qP = new LinkedList<>();
         Queue<int[]> qA = new LinkedList<>();
-        boolean[][] visitedP = new boolean[heights.length][heights[0].length];
-        boolean[][] visitedA = new boolean[heights.length][heights[0].length];
+        int noOfRows = heights.length;
+        boolean[][] visitedP = new boolean[noOfRows][heights[0].length];
+        boolean[][] visitedA = new boolean[noOfRows][heights[0].length];
         List<List<Integer>> result = new ArrayList<>();
 
-        for(int i = 0; i < heights.length; i++){
+        for(int i = 0; i < noOfRows; i++){
             qP.add(new int[] {i, 0});
             visitedP[i][0] = true;
             qA.add(new int[] {i, heights[0].length - 1});
@@ -16,14 +17,14 @@ class Solution {
         for(int j = 0; j < heights[0].length; j++){
             qP.add(new int[] {0, j});
             visitedP[0][j] = true;
-            qA.add(new int[] {heights.length - 1, j});
-            visitedA[heights.length - 1][j] = true;
+            qA.add(new int[] {noOfRows - 1, j});
+            visitedA[noOfRows - 1][j] = true;
         }
 
         bfs(qP, visitedP, heights);
         bfs(qA, visitedA, heights);
 
-        for(int i = 0; i < heights.length; i++){
+        for(int i = 0; i < noOfRows; i++){
             for(int j = 0; j < heights[0].length; j++){
                 if(visitedP[i][j] && visitedA[i][j]){
                     result.add(Arrays.asList(i, j));
