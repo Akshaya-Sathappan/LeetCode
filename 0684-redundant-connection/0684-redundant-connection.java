@@ -1,46 +1,57 @@
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {
-        List<List<Integer>> list = new ArrayList<>();
-        int len = edges.length;
+        DSU dsu = new DSU(edges.length + 1);
 
-        for(int i = 0; i <= len; i++){
-            list.add(new ArrayList<>());
-        }
-
-        for(int[] edge : edges){
-            int u = edge[0];
-            int v = edge[1];
-            if(bfs(list, u, v, len)){
-                return edge;
+        for(int[] e : edges){
+            if(!dsu.union(e[0], e[1])){
+                return e;
             }
-            list.get(u).add(v);
-            list.get(v).add(u);
         }
+        return new int[2];
+    }
+}
 
-        return new int[]{0, 0};
+class DSU {
+    int[] parent;
+    int[] size;
+
+    DSU(int n){
+        parent = new int[n];
+        size = new int[n];
+
+        for(int i = 0; i < n; i++){
+            parent[i] = i;
+            size[i] = 1;
+        }
     }
 
-    public boolean bfs(List<List<Integer>> list, int u, int v, int len){
-        Queue<Integer> q = new LinkedList<>();
-        boolean[] visited = new boolean[len + 1];
-
-        q.add(u);
-        visited[u] = true;
-
-        while(!q.isEmpty()){
-            int node = q.poll();
-            
-            for(int nei : list.get(node)){
-                if(nei == v){
-                    return true;
-                }
-                if(!visited[nei]){
-                    q.add(nei);
-                    visited[nei] = true;
-                }
-            }
+    public int find(int node){
+        if(parent[node] == node){
+            return node;
         }
 
-        return false;
+        parent[node] = find(parent[node]);
+
+        return parent[node];
+    }
+
+    public boolean union(int u, int v){
+        int nu = find(u);
+        int nv = find(v);
+
+        if(nu == nv){
+            return false;
+        }
+
+        if(size[nu] < size[nv]){
+            parent[nu] = nv;
+            size[nv] += size[nu];
+        }
+        else{
+            parent[nv] = nu;
+            size[nu] += size[nv];
+        }
+
+        return true;
     }
 }
