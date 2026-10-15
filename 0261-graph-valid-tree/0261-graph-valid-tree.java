@@ -1,48 +1,64 @@
 class Solution {
     public boolean validTree(int n, int[][] edges) {
+        DSU dsu = new DSU(n);
+        int components = n;
 
         if(edges.length != n - 1){
             return false;
         }
 
-        List<List<Integer>> adjList = new ArrayList<>();
+        for(int[] e : edges){
+            if(!dsu.union(e[0], e[1])){
+                return false;
+            }
+            components--;
+        }
+
+        return components == 1;
+    }
+}
+
+class DSU {
+    int[] parent;
+    int[] size;
+
+    DSU(int n){
+        parent = new int[n];
+        size = new int[n];
 
         for(int i = 0; i < n; i++){
-            adjList.add(new ArrayList<>());
+            parent[i] = i;
+            size[i] = 1;
+        }
+    }
+
+    public int find(int node){
+        if(parent[node] == node){
+            return node;
         }
 
-        for(int[] e : edges){
-            adjList.get(e[0]).add(e[1]);
-            adjList.get(e[1]).add(e[0]);
+        parent[node] = find(parent[node]);
+
+        return parent[node];
+    }
+
+    public boolean union(int u, int v){
+        int nu = find(u);
+        int nv = find(v);
+
+        if(nu == nv){
+            return false;
         }
 
-        Queue<Integer> q = new LinkedList<>();
-        boolean[] visited = new boolean[n];
-        int[] parent = new int[n];
-        q.add(0);
-        parent[0] = -1;
-        visited[0] = true;
-        int count = 1;
-
-        while(!q.isEmpty()){
-            int node = q.poll();
-
-            for(int i : adjList.get(node)){
-                if(!visited[i]){
-                    visited[i] = true;
-                    parent[i] = node;
-                    q.add(i);
-                    count++;
-                }
-                else{
-                   if(parent[node] == i)
-                        continue;
-                    else
-                        return false;
-                }
-            }
+        if(size[nu] < size[nv]){
+            parent[nu] = nv;
+            size[nv] += size[nu];
+        }
+        else{
+            parent[nv] = nu;
+            size[nu] += size[nv];
         }
 
-        return count == n;
+        return true;
     }
 }
