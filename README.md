@@ -39,6 +39,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -100,6 +101,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -131,6 +133,7 @@
 | [0455-assign-cookies](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -215,6 +218,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -356,6 +360,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Breadth-First Search
@@ -371,6 +376,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -415,4 +421,5 @@
 | [0261-graph-valid-tree](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 <!---LeetCode Topics End-->
