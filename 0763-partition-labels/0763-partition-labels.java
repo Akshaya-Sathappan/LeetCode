@@ -8,7 +8,7 @@ class Solution {
         }
 
         HashSet<Character> set = new HashSet<>();
-        int start = 0;
+        int previousEnd = 0;
         int current = 0;
         List<Integer> result = new ArrayList<>();
 
@@ -24,8 +24,8 @@ class Solution {
             }
 
             if(set.isEmpty()){
-                result.add(current - start);
-                start = current;
+                result.add(current - previousEnd);
+                previousEnd = current;
             }
         }
 
