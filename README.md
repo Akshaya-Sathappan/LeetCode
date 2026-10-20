@@ -230,6 +230,7 @@
 | [0767-reorganize-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1405-longest-happy-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1405-longest-happy-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@
 | [0846-hand-of-straights](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1405-longest-happy-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1405-longest-happy-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +316,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1405-longest-happy-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1405-longest-happy-string/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
