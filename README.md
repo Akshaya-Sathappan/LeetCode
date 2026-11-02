@@ -60,6 +60,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1834-single-threaded-cpu](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +319,7 @@
 | [0767-reorganize-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1405-longest-happy-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1405-longest-happy-string/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
