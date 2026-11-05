@@ -11,7 +11,7 @@ class Solution {
 
         int curLocation = 0;
 
-        while(!fromQueue.isEmpty() && !toQueue.isEmpty()){
+        while(!fromQueue.isEmpty()){
             curLocation = fromQueue.peek()[0];
             while(curLocation >= toQueue.peek()[0]){
                 availableCapacity += toQueue.poll()[1];
