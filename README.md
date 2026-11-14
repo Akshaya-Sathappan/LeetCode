@@ -42,6 +42,7 @@
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0846-hand-of-straights](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -106,6 +107,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -234,6 +236,7 @@
 | [0541-reverse-string-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
@@ -407,6 +410,7 @@
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Graph Theory
@@ -451,4 +455,8 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
