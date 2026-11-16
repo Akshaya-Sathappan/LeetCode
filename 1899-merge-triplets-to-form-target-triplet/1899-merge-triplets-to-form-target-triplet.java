@@ -13,9 +13,10 @@ class Solution {
                     max1 = Math.max(max1, triplets[i][0]);
                     max2 = Math.max(max2, triplets[i][1]);
                     max3 = Math.max(max3, triplets[i][2]);
-                }
-                if(max1 == target[0] && max2 == target[1] && max3 == target[2]){
-                    return true;
+
+                    if(max1 == target[0] && max2 == target[1] && max3 == target[2]){
+                        return true;
+                    }
                 }
             }
         }
