@@ -64,6 +64,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -271,6 +272,7 @@
 | [0860-lemonade-change](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1405-longest-happy-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1405-longest-happy-string/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
