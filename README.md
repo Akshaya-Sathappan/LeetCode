@@ -235,6 +235,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0649-dota2-senate](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
@@ -265,6 +266,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0649-dota2-senate](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -297,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0649-dota2-senate](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
