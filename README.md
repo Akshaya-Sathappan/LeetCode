@@ -96,6 +96,7 @@
 | [0013-roman-to-integer](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0266-palindrome-permutation](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0266-palindrome-permutation/) | Easy |
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -232,6 +233,7 @@
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0266-palindrome-permutation](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0266-palindrome-permutation/) | Easy |
 | [0290-word-pattern](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -284,6 +286,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+| [0266-palindrome-permutation](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0266-palindrome-permutation/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
