@@ -133,6 +133,7 @@
 | [0763-partition-labels](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
