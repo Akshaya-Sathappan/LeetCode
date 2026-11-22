@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -475,4 +476,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
