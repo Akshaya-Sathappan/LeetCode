@@ -64,6 +64,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -89,6 +90,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -346,6 +348,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1094-car-pooling](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [1405-longest-happy-string](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1405-longest-happy-string/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -412,6 +415,7 @@
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +434,7 @@
 | [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,6 +464,7 @@
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,6 +478,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,4 +487,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0039-combination-sum/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
