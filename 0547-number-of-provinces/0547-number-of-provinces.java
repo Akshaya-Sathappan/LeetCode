@@ -22,8 +22,8 @@ class Solution {
             int element = q.poll();
 
             for(int l = 0; l < isConnected[element].length; l++){
-                int con = isConnected[element][l];
-                if(con == 1 && !visited[l]){
+                int connectivity = isConnected[element][l];
+                if(connectivity == 1 && !visited[l]){
                     q.add(l);
                     visited[l] = true;
                 }
