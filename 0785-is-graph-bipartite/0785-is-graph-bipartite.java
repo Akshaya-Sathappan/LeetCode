@@ -23,13 +23,8 @@ class Solution {
                         q.add(e);
                     }
 
-                    else{
-                        if(color[e] != color[i]){
-                            continue;
-                        }
-                        else{
-                            return false;
-                        }
+                    else if (color[e] == color[i]){
+                        return false;
                     }
                 }
             }
