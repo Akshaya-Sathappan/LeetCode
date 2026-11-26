@@ -6,7 +6,7 @@ class Solution {
         Arrays.fill(color, -1);
 
         for(int k = 0; k < graph.length; k++){
-            
+
             if(color[k] != -1) continue;
 
             q.add(k);
@@ -19,13 +19,7 @@ class Solution {
                     int e = graph[i][j];
 
                     if(color[e] == -1){
-                        if(color[i] == 0){
-                            color[e] = 1;
-                        }
-                        else{
-                            color[e] = 0;
-                        }
-
+                        color[e] = 1 - color[i];
                         q.add(e);
                     }
 
