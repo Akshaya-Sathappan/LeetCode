@@ -39,6 +39,7 @@
 | [0621-task-scheduler](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0695-max-area-of-island](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -413,6 +414,7 @@
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -433,6 +435,7 @@
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0752-open-the-lock/) | Medium |
@@ -471,6 +474,7 @@
 | [0286-walls-and-gates](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0695-max-area-of-island](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -487,6 +491,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Akshaya-Sathappan/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
