@@ -21,11 +21,11 @@ class Solution {
             }
         }
 
-        List<Integer> safeNodes = new ArrayList<>();
+        boolean[] safeNodes = new boolean[graph.length];
 
         while(!q.isEmpty()){
             int node = q.poll();
-            safeNodes.add(node);
+            safeNodes[node] = true;;
 
             for(int nei : adjList.get(node)){
                 indegree[nei]--;
@@ -36,8 +36,14 @@ class Solution {
             }
         }
         
-        Collections.sort(safeNodes);
+        List<Integer> result = new ArrayList<>();
 
-        return safeNodes;
+        for(int a = 0; a < safeNodes.length; a++){
+            if(safeNodes[a] == true){
+                result.add(a);
+            }
+        }
+
+        return result;
     }
 }
